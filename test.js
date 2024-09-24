@@ -1,5 +1,5 @@
-var botId = "st-7d2ac320-109a-5721-8a1f-60a5faab9b71";
-var botName = "Book Movie Tickets";
+var botId = "st-ea136431-cce7-5bbe-b151-f50ea29efa25";
+var botName = "Book a Medical Appointment";
 var sdk = require("./lib/sdk");
 var botVariables = {};
 var langArr = require('./config.json').languages;
